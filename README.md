@@ -1,5 +1,5 @@
 
-All open sources repositories of the Lysa Engine and the Vireo 3D Rendering Hardware Interface have been migrated to [https://codeberg.org/LysaEngine.](https://codeberg.org/LysaEngine) and the official page to https://lysaengine.org/ :
+All open sources repositories of the Lysa Engine and the Vireo 3D Rendering Hardware Interface projects have been migrated to [https://codeberg.org/LysaEngine.](https://codeberg.org/LysaEngine) and the official page to https://lysaengine.org/ :
 
 - [A hobby GPU-driven 3D engine](https://codeberg.org/LysaEngine/lysa_engine) : https://lysaengine.org/Lysa/
 - [Scene graph using OOP node tree for the Lysa Engine](https://codeberg.org/LysaEngine/lysa_nodes) : https://lysaengine.org/LysaNodes/
